@@ -1,0 +1,489 @@
+body{
+	padding:0;
+	margin:0!important;
+	overflow-x:hidden;
+
+}
+section#about img {
+    width: 90%;
+}
+.col-md-8.info {
+    margin: auto;
+}
+section#sec-banner {
+    background-position: center!important;
+    background-size: cover!important;
+    background-repeat: no-repeat!important;
+}
+.banner {
+    padding: 138px 0px;
+    color: #fff;
+}
+.banner h2 {
+    font-size: 62px;
+}
+.banner h6 {
+    font-size: 20px;
+}
+.navbar-light .navbar-brand {
+    width: 240px;
+}
+.navbar-brand img {
+    width: 70%;
+}
+.footer-cont {
+  padding: 100px 0px !important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(0 0 0 / 55%)!important;
+}
+.footer-logo {
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+.text-center {
+  padding: 10px 0px;
+  background: #272624 !important;
+}
+ul.top-nav {
+    display: flex;
+    list-style: none;
+	margin-bottom:unset;
+	color:#fff;
+}
+ul.top-nav li a{
+	color:#fff;
+}
+.top-bar {
+    background: #87d0d6;
+}
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    background: #ffffff!important;
+}
+a.nav-link {
+    color: #fff!important;
+}
+ul.navbar-nav li {
+    padding-right: 14px;
+}
+input.form-control.me-1 {
+    width: 65%;
+    /* padding-left: 100px; */
+    margin-right: 1em!important;
+}
+div#contact {
+    padding: 60px 0px;
+    color: #fff;
+}
+section#my-skils img {
+    width: 100%;
+}
+a.mycert {
+    padding: 12px 26px;
+    margin-top: 28px!important;
+    display: inline-block;
+    background: #000;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 9px;
+    font-weight: 600;
+    font-style: italic;
+}
+section#my-skils {
+    padding: 50px 0px;
+    text-align: center;
+    color: #fff;
+}
+section#about {
+    padding: 60px 0px;
+}
+section#my-skils ul {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    margin-bottom: 40px;
+}
+section#my-skils h4 {
+    font-size: 30px;
+}
+#my-skils li {
+    font-size: 18px;
+    margin-top: 15px;
+    font-weight: 400;
+}
+#my-skils h3 {
+    text-align: center;
+    font-size: 59px;
+    text-decoration: underline;
+    padding: 50px;
+}
+div#contact a {
+    color: #fff;
+    text-decoration: none;
+}
+.social {
+    margin-top: 10px;
+}
+.container-fluid.top-bar {
+    padding: 22px;
+}
+a.user-logo {
+    margin-right: 15px;
+}
+input.form-control.me-1:placeholder-shown {
+    /* font-size: initial; */
+    font-style: italic;
+}
+.bg-light.text-center.text-lg-start {
+  background: #797776 !important;
+}
+.social a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 23px;
+    padding: 10px 4px;
+}
+.footer-cont {
+  color: #fff;
+}
+a.text-dark {
+  color: #fff !important;
+  text-decoration: none!important;
+font-size: 14px;
+}
+.text-uppercase {
+  font-weight: 700;
+}
+.list-unstyled {
+  margin-top: 10px !important;
+font-size: 14px;
+}
+.list-unstyled p {
+	margin-bottom:1.5px;
+}
+.list-unstyled li {
+  margin-bottom: 5px;
+}
+.bg-light.text-center.text-lg-start {
+  padding: 0px;
+}
+
+/*slider*/
+#bg-overlay:before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: auto;
+    background: #33333361;
+}
+.text-left {
+    text-align: left;
+}
+.banner-row img {
+    float: left;
+	margin-right:10px;
+}
+.banner-row h6, p{
+	margin-bottom:0px;
+}
+.banner-section h2 {
+    font-size: 48px!important;
+    font-weight: 700!important;
+}
+.banner-row h6{
+	margin-top:10px;
+}
+.banner-row {
+    margin-top: 80px!important;
+}
+#bg-overlay {
+    width: 100%;
+    height: 500px;
+    background: linear-gradient( rgb(0 0 0 / 62%), rgb(0 0 0 / 62%)), url(../images/bandeau_header_hygiene.jpg)!important;
+    color: #fff!important;
+    background-repeat: no-repeat;
+    background-size: cover!important;
+    background-position: top center;
+}
+.banner-section h6 {
+    font-size: 18px!important;
+}
+.container.circle-section {
+    max-width: 850px;
+}
+.circle-personnalisable .container {
+    max-width: 700px;
+}
+.circle-section img {
+    border-radius: 100px;
+    border: solid 6px #fff;
+	text-align:center;
+}
+.circle-background{
+	background-color:#96e0e3!important;
+	padding:20px 0;
+}
+.circle-section p{
+	text-align:center;
+	font-weight:600;
+	color:#fff;
+	margin-bottom:0px;
+}
+.circle-section .col-lg-3 img {
+    display: block;
+    margin: auto;
+}
+.circle-personnalisable .col-lg-4 img {
+    display: block;
+    margin: auto;
+	padding-bottom:10px;
+}
+.circle-personnalisable h6{
+	text-align:center;
+	font-weight:700;
+	font-size: 24px;
+	color:#dc3a57;
+	margin-bottom:0px;
+}
+.circle-personnalisable{
+	text-align:center;
+}
+.les-tapic h3 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 26px;
+}
+.circle-personnalisable {
+    padding: 30px 0px 0px 0px;
+}
+a.button {
+    border: solid 2px #212529;
+    text-decoration: none!important;
+    text-align: center;
+    padding: 8px 15px;
+    margin: auto;
+    width: auto!important;
+    border-radius: 5px;
+    font-weight: 600;
+    color: #212529;
+    margin-top: 30px!important;
+}
+a.articles-button{
+    border: solid 2px #212529;
+    text-decoration: none!important;
+	text-align: center;
+    padding: 8px 15px;
+    margin: auto;
+    width: auto;
+    border-radius: 5px;
+	font-weight:600;
+	color:#212529;
+	margin-top: 30px!important;
+}
+a.button:hover {
+	color:#dc3a57;
+	border: solid 2px #dc3a57;
+}
+.circle-personnalisable .row {
+    padding-bottom: 50px;
+}
+.circle-conseil .container {
+    max-width: 900px;
+}
+.pourquoi{
+	background-image: url("../images/blog_1.jpg")!important;
+	background-repeat: no-repeat;
+    /* background-position: center center; */
+    background-position: top center;
+    padding-top: 148px;
+    background-size: 400px;
+    /* background-size: 205px; */
+    border-radius: 5px!important;
+}
+.comment{
+	background-image: url("../images/blog_2.jpg")!important;
+	background-repeat: no-repeat;
+    /* background-position: center center; */
+    background-position: top center;
+    padding-top: 148px;
+    background-size: cover;
+    /* background-size: 205px; */
+    border-radius: 5px!important;
+}
+.grandes {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    background: linear-gradient( rgb(0 0 0 / 19%), rgb(0 0 0 / 19%)), url(../images/interview-design.jpg)!important;
+    padding: 92px;
+    text-align: center;
+}
+.grandes-content h2 {
+    font-size: 40px;
+    font-weight: 700;
+	color:#fff;
+}
+.grandes-content p {
+    font-size: 18px;
+    font-weight: 500;
+	color:#fff;
+}
+.notre{
+	background-image: url("../images/blog_3.jpg")!important;
+	background-repeat: no-repeat;
+    /* background-position: center center; */
+    background-position: top center;
+    padding-top: 148px;
+    background-size: cover;
+    /* background-size: 205px; */
+    border-radius: 5px!important;
+}
+.pourquoi h6, p {
+    margin-bottom: 0px!important;
+}
+.comment h6, p {
+    margin-bottom: 0px!important;
+}
+.notre h6, p {
+    margin-bottom: 0px!important;
+}
+.blog-content p{
+	font-size:14px;
+}
+.blog-content h6 {
+	font-size:12px;
+	font-weight:600;
+}
+.circle-conseil .col-lg-4 {
+    padding: 10px;
+}
+.blog-content {
+    border-left: 15px solid #dc3a57;
+    padding: 8px;
+    background: #ffffffc4;
+    border-radius: 0px 5px;
+}
+.les-tapic {
+    margin-bottom: 20px;
+}
+.circle-conseil {
+    padding-bottom: 40px;
+}
+.grandes-button {
+    padding: 35px;
+}
+.grandes-button a{
+    border: solid 2px #ffffff;
+    text-decoration: none!important;
+    text-align: center;
+    padding: 10px 20px;
+    margin: auto;
+    width: 43%!important;
+    border-radius: 5px;
+    font-weight: 600;
+    color: #f6becb;
+    margin-top: 31px!important;
+    background: #fff;
+}
+.grandes-button a:hover {
+    color: white;
+    background: #fff0;
+    border: solid 2px #ffffff;
+}
+.personnaliser .container {
+    max-width: 1000px!important;
+}
+span.numbers {
+    font-size: 50px;
+}
+.choisissez-content h4 {
+    font-size: 16px;
+    font-weight: 700;
+}
+.choisissez-content p {
+    font-size: 16px;
+    font-weight: 500;
+    color: #8c8c8c;
+}
+a.choisissez-button {
+    border: solid 2px #212529;
+    text-decoration: none!important;
+    text-align: center;
+    padding: 8px 20px;
+    margin: auto;
+    width: auto;
+    border-radius: 5px;
+    font-weight: 600;
+    color: #212529;
+    margin-top: 30px!important;
+}
+.personnaliser {
+    padding: 40px!important;
+}
+
+@media screen and (max-width: 768px) and (min-width: 320px) {
+	.hero-banner.bg-light.py-5 {
+    background-repeat: no-repeat!important;
+    background-size: cover!important;
+    background-position: top center!important;
+}
+
+.banner-row img {
+    float: none;
+    margin-bottom: 2px;
+}
+.banner-row {
+    margin-top: 40px!important;
+}
+.row.banner-row .col-lg-4 {
+    padding-bottom: 24px!important;
+}
+.container.circle-section .col-lg-3 {
+    padding-bottom: 30px;
+}
+.circle-personnalisable .row {
+   padding-bottom: 0px;
+}
+.circle-personnalisable .col-lg-4 {
+    padding-bottom: 40px;
+}
+.circle-personnalisable .container {
+    padding-bottom: 40px;
+}
+.grandes {
+    width: auto;
+	padding:40px 0px;
+}
+br {
+    display: none;
+}
+.grandes-content p {
+    font-size: 16px;
+}
+.personnaliser {
+    padding: 28px!important;
+}
+.personnaliser .col-lg-4 {
+    padding-bottom: 24px;
+}
+.footer-logo {
+    text-align: center;
+    display: block;
+    align-items: center;
+}
+.footer-cont {
+    padding: 50px 0px !important;
+}
+#bg-overlay {
+    width: 100%;
+    height: 700px;
+    /* top: 44%; */
+    /* position: relative; */
+}
+}
